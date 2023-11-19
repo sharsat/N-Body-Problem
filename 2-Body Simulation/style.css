@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	font-family: SansSerif;
+	background-color: lightgray;
+}
+
+p {
+	margin: -10px 0px 0px 43px;
+}
+
+button {
+	background-color: white;
+	border: none;
+	color: black;
+	padding: 5px 5px;
+	text-align: center;
+	font-family: SansSerif;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+@font-face {
+	font-family: 'SansSerif';
+	src: url('CMU Font/Sans Serif/CMU Sans Serif.ttf');
+}
